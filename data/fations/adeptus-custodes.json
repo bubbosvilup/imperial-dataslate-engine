@@ -1,0 +1,15 @@
+{
+  "faction": "Adeptus Custodes",
+  "subfactions": [],
+  "rules": [
+    {
+      "id": "aegis-of-the-emperor",
+      "name": "Aegis of the Emperor",
+      "phase": "any",
+      "timing": "always_on",
+      "source": "Army Rule",
+      "text": "Units with this ability have a 4+ invulnerable save.",
+      "tags": ["defence", "core"]
+    }
+  ]
+}
